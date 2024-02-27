@@ -1,0 +1,28 @@
+{
+  "name": "kontol-lodon",
+  "version": "1.0.0",
+  "description": "Mengenal Kontol Lodon",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviachandra/kontol-lodon.git"
+  },
+  "keywords": [
+    "lodon",
+    "npm"
+  ],
+  "author": "olive",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "app_nodejs": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/oliviachandra/kontol-lodon/issues"
+  },
+  "homepage": "https://github.com/oliviachandra/kontol-lodon#readme"
+}
